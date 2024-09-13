@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temporal</string>
+    <string name="et_hint_aquetaza">a que taza</string>
+    <string name="et_hint_cuantonecesitas">cuanto necesitas</string>
+    <string name="et_hint_valorpropiedad">Valor propiedad</string>
+    <string name="et_hint_aqueplazo">a que plazo</string>
+    <string name="btn_calcular">calcular</string>
+</resources>
